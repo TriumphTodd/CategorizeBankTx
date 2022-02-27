@@ -1,0 +1,279 @@
+Account,Posting Date,Description,Amount,Type,Check or Slip #,Rule Number,Short Name,Category1,Category2
+Checking,12/27/2021,ALLSTATE P&C INS INS PYMT    TEL ID: ,-41.86,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,12/23/2021,APPLE.COM/BILL 866-712-7753 CA               12/22,-14.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,12/21/2021,ALLSTATE INS CO  INS PREM    WEB ID: ,-16.55,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,12/20/2021,APPLE.COM/BILL 866-712-7753 CA               12/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,12/17/2021,ALLSTATE INS CO  INS PREM                   PPD ID: ,-161.91,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,12/16/2021,STARBUCKS 58599 NEWARK DE                    12/15,-2.95,DEBIT_CARD,,10,Starbucks,Restaurants,Non-recurring Expenses
+Checking,12/15/2021,ROYAL FARMS 197 NEWARK DE                    12/15,-49.08,DEBIT_CARD,,12,Royal Farms,Gas,Regular Expenses
+Checking,12/15/2021,APPLE.COM/BILL 866-712-7753 CA               12/14,-9.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,12/13/2021,STARBUCKS 800-782-728 800-782-7282 WA        12/10,-25,DEBIT_CARD,,10,Starbucks,Restaurants,Non-recurring Expenses
+Checking,12/07/2021,APPLE.COM/BILL 866-712-7753 CA               12/02,-9.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,12/06/2021,ATT              Payment                    PPD ID: ,-115.78,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,12/01/2021,NETFLIX.COM NETFLIX.COM CA                   12/01,-13.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,11/30/2021,APPLE.COM/BILL 866-712-7753 CA               11/30,-4.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,11/23/2021,APPLE.COM/BILL 866-712-7753 CA               11/22,-14.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,11/22/2021,APPLE.COM/BILL 866-712-7753 CA               11/22,-4.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,11/22/2021,ALLSTATE INS CO  INS PREM    WEB ID: ,-17.66,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,11/22/2021,APPLE.COM/BILL 866-712-7753 CA               11/20,-9.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,11/22/2021,STARBUCKS 800-782-728 800-782-7282 WA        11/19,-25,DEBIT_CARD,,10,Starbucks,Restaurants,Non-recurring Expenses
+Checking,11/19/2021,GULF 2513 WILMINGTON DE                      11/19,-23.57,DEBIT_CARD,,8,Gulf,Gas,Regular Expenses
+Checking,11/19/2021,GULF 2513 WILMINGTON DE                      11/19,-49.35,DEBIT_CARD,,8,Gulf,Gas,Regular Expenses
+Checking,11/19/2021,APPLE.COM/BILL 866-712-7753 CA               11/19,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,11/19/2021,APPLE.COM/BILL 866-712-7753 CA               11/19,-49.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,11/17/2021,ALLSTATE INS CO  INS PREM                   PPD ID: ,-161.91,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,11/15/2021,APPLE.COM/BILL 866-712-7753 CA               11/14,-9.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,11/09/2021,CONCORD PET FOODS & SU WILMINGTON DE         11/09,-54.98,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,11/04/2021,ATT              Payment                    PPD ID: ,-115.78,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,11/02/2021,STARBUCKS 800-782-728 800-782-7282 WA        11/01,-25,DEBIT_CARD,,10,Starbucks,Restaurants,Non-recurring Expenses
+Checking,11/02/2021,NETFLIX.COM NETFLIX.COM CA                   11/01,-13.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,11/01/2021,GULF 2513 WILMINGTON DE                      11/01,-50,DEBIT_CARD,,8,Gulf,Gas,Regular Expenses
+Checking,10/28/2021,APPLE.COM/BILL 866-712-7753 CA               10/27,-9.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,10/25/2021,APPLE.COM/BILL 866-712-7753 CA               10/22,-14.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,10/20/2021,ALLSTATE INS CO  INS PREM    WEB ID: ,-17.66,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,10/19/2021,ALLSTATE INS CO  INS PREM                   PPD ID: ,-161.91,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,10/18/2021,APPLE.COM/BILL 866-712-7753 CA               10/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,10/15/2021,APPLE.COM/BILL 866-712-7753 CA               10/14,-9.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,10/05/2021,ATT              Payment                    PPD ID: ,-115.86,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,10/04/2021,STARBUCKS 800-782-728 800-782-7282 WA        10/04,-25,DEBIT_CARD,,10,Starbucks,Restaurants,Non-recurring Expenses
+Checking,10/01/2021,NETFLIX.COM NETFLIX.COM CA                   10/01,-13.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,10/01/2021,APPLE.COM/BILL 866-712-7753 CA               10/01,-59.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,09/29/2021,APPLE.COM/BILL 866-712-7753 CA               09/28,-19.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,09/23/2021,APPLE.COM/BILL 866-712-7753 CA               09/23,-14.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,09/22/2021,CONCORD PET FOODS & SU WILMINGTON DE         09/22,-87.47,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,09/21/2021,ALLSTATE INS CO  INS PREM    WEB ID: ,-17.66,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,09/20/2021,APPLE.COM/BILL 866-712-7753 CA               09/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,09/17/2021,ALLSTATE INS CO  INS PREM                   PPD ID: ,-161.91,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,09/17/2021,STARBUCKS 800-782-728 800-782-7282 WA        09/16,-25,DEBIT_CARD,,10,Starbucks,Restaurants,Non-recurring Expenses
+Checking,09/17/2021,STARBUCKS 58599 NEWARK DE                    09/16,-2.95,DEBIT_CARD,,10,Starbucks,Restaurants,Non-recurring Expenses
+Checking,09/15/2021,APPLE.COM/BILL 866-712-7753 CA               09/14,-9.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,09/07/2021,ATT              Payment                    PPD ID: ,-115.86,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,09/03/2021,GULF 2513 WILMINGTON DE                      09/03,-6.28,DEBIT_CARD,,8,Gulf,Gas,Regular Expenses
+Checking,09/03/2021,GULF 2513 WILMINGTON DE                      09/03,-33.47,DEBIT_CARD,,8,Gulf,Gas,Regular Expenses
+Checking,09/01/2021,NETFLIX.COM NETFLIX.COM CA                   09/01,-13.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,08/25/2021,CONCORD PET FOODS & SU WILMINGTON DE         08/25,-64.97,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,08/23/2021,AUTOZONE  1160 3600 N WILMINGTON DE  564445  08/22,-15.98,DEBIT_CARD,,None,No Short Name,No Category 1,No Category 2
+Checking,08/23/2021,APPLE.COM/BILL 866-712-7753 CA               08/22,-14.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,08/20/2021,ALLSTATE INS CO  INS PREM    WEB ID: ,-17.66,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,08/19/2021,APPLE.COM/BILL 866-712-7753 CA               08/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,08/18/2021,ALLSTATE INS CO  INS PREM                   PPD ID: ,-161.88,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,08/16/2021,GULF 2513 WILMINGTON DE                      08/14,-3.61,DEBIT_CARD,,8,Gulf,Gas,Regular Expenses
+Checking,08/10/2021,STARBUCKS 58599 NEWARK DE                    08/09,-3.45,DEBIT_CARD,,10,Starbucks,Restaurants,Non-recurring Expenses
+Checking,08/09/2021,APPLE.COM/BILL 866-712-7753 CA               08/06,-11.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,08/05/2021,ATT              Payment                    PPD ID: ,-115.86,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,08/02/2021,CONCORD PET FOODS & SU WILMINGTON DE         08/02,-69.98,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,08/02/2021,NETFLIX.COM NETFLIX.COM CA                   08/01,-13.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,07/27/2021,APPLE.COM/BILL 866-712-7753 CA               07/26,-9.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,07/26/2021,APPLE.COM/BILL 866-712-7753 CA               07/23,-14.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,07/21/2021,ALLSTATE INS CO  INS PREM    WEB ID: ,-17.66,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,07/19/2021,APPLE.COM/BILL 408-974-1010 CA               07/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,07/19/2021,ALLSTATE INS CO  INS PREM                   PPD ID: ,-203.76,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,07/12/2021,GULF 2513 WILMINGTON DE                      07/11,-42.5,DEBIT_CARD,,8,Gulf,Gas,Regular Expenses
+Checking,07/06/2021,ATT              Payment                    PPD ID: ,-115.89,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,07/01/2021,NETFLIX.COM NETFLIX.COM CA                   07/01,-13.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,06/25/2021,ACME 0808 WILMINGTON DE              523233  06/25,-27.22,DEBIT_CARD,,6,Acme Groceries,Groceries,Regular Expenses
+Checking,06/23/2021,APPLE.COM/BILL 866-712-7753 CA               06/22,-14.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,06/22/2021,ALLSTATE INS CO  INS PREM    WEB ID: ,-17.66,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,06/21/2021,APPLE.COM/BILL 866-712-7753 CA               06/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,06/17/2021,ALLSTATE INS CO  INS PREM                   PPD ID: ,-203.76,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,06/07/2021,ATT              Payment                    PPD ID: ,-104.52,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,06/01/2021,NETFLIX.COM NETFLIX.COM CA                   06/01,-13.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,05/25/2021,APPLE.COM/BILL 866-712-7753 CA               05/24,-14.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,05/24/2021,CONCORD PET FOODS & SU WILMINGTON DE         05/24,-54.99,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,05/20/2021,ALLSTATE INS CO  INS PREM    WEB ID: ,-17.66,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,05/19/2021,APPLE.COM/BILL 408-974-1010 CA               05/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,05/18/2021,ALLSTATE INS CO  INS PREM                   PPD ID: ,-203.76,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,05/17/2021,ATT EPHL 11457 FOLCROFT PA           493956  05/15,-54,DEBIT_CARD,,5,AT&T Mobile,Utilities,Regular Expenses
+Checking,05/06/2021,GULF 2513 WILMINGTON DE                      05/06,-39,DEBIT_CARD,,8,Gulf,Gas,Regular Expenses
+Checking,05/04/2021,ATT              Payment                    PPD ID: ,-79.22,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,05/03/2021,NETFLIX.COM NETFLIX.COM CA                   05/01,-12.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,04/26/2021,CONCORD PET FOODS & SU WILMINGTON DE         04/25,-35.48,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,04/26/2021,GULF 2513 WILMINGTON DE                      04/24,-5.59,DEBIT_CARD,,8,Gulf,Gas,Regular Expenses
+Checking,04/26/2021,APPLE.COM/BILL 866-712-7753 CA               04/24,-14.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,04/23/2021,SEAMLSSTACOBELL SEAMLESS.COM NY              04/22,-27,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,04/21/2021,ALLSTATE INS CO  INS PREM    WEB ID: ,-17.66,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,04/19/2021,APPLE.COM/BILL 866-712-7753 CA               04/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,04/19/2021,ALLSTATE INS CO  INS PREM                   PPD ID: ,-203.76,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,04/06/2021,SEAMLSSTACOBELL SEAMLESS.COM NY              04/06,-30,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,04/05/2021,ATT              Payment                    PPD ID: ,-79.2,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,04/05/2021,SEAMLSSTACOBELL SEAMLESS.COM NY              04/02,-31,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,04/01/2021,NETFLIX.COM NETFLIX.COM CA                   04/01,-12.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,03/25/2021,APPLE.COM/BILL 866-712-7753 CA               03/24,-34.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,03/24/2021,APPLE.COM/BILL 866-712-7753 CA               03/23,-14.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,03/22/2021,ALLSTATE INS CO  INS PREM    WEB ID: ,-17.66,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,03/19/2021,GULF 2513 WILMINGTON DE                      03/19,-36.72,DEBIT_CARD,,8,Gulf,Gas,Regular Expenses
+Checking,03/19/2021,APPLE.COM/BILL 866-712-7753 CA               03/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,03/17/2021,ALLSTATE INS CO  INS PREM                   PPD ID: ,-203.76,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,03/15/2021,CONCORD PET FOODS & SU WILMINGTON DE         03/14,-71.47,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,03/08/2021,CONCORD PET FOODS & SU WILMINGTON DE         03/08,-48.97,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,03/04/2021,ATT              Payment                    PPD ID: ,-79.2,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,03/01/2021,NETFLIX.COM NETFLIX.COM CA                   03/01,-12.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,02/25/2021,APPLE.COM/BILL 866-712-7753 CA               02/24,-34.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,02/23/2021,APPLE.COM/BILL 866-712-7753 CA               02/22,-14.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,02/22/2021,ALLSTATE INS CO  INS PREM    WEB ID: ,-17.66,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,02/18/2021,APPLE.COM/BILL 866-712-7753 CA               02/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,02/17/2021,ALLSTATE INS CO  INS PREM                   PPD ID: ,-203.78,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,02/16/2021,APPLE.COM/BILL 866-712-7753 CA               02/14,-1.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,02/12/2021,APPLE.COM/BILL 866-712-7753 CA               02/11,-29.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,02/05/2021,ACME 0874 WILMINGTON DE                      02/04,-65.41,DEBIT_CARD,,6,Acme Groceries,Groceries,Regular Expenses
+Checking,02/04/2021,ATT              Payment                    PPD ID: ,-79.2,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,02/01/2021,NETFLIX.COM NETFLIX.COM CA                   02/01,-12.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,01/29/2021,CONCORD PET FOODS & SU WILMINGTON DE         01/29,-77.96,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,01/25/2021,APPLE.COM/BILL 866-712-7753 CA               01/22,-14.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,01/20/2021,ALLSTATE INS CO  INS PREM    WEB ID: ,-17.66,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,01/19/2021,APPLE.COM/BILL 866-712-7753 CA               01/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,01/19/2021,ALLSTATE INS CO  INS PREM                   PPD ID: ,-202.88,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,01/19/2021,CONCORD PET FOODS & SU WILMINGTON DE         01/18,-84.46,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,01/11/2021,CONCORD PET FOODS & SU WILMINGTON DE         01/10,-91.97,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,01/05/2021,ATT              Payment                    PPD ID: ,-79.12,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,01/04/2021,NETFLIX.COM NETFLIX.COM CA                   01/01,-12.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,12/29/2020,ACME 0874 WILMINGTON DE              963763  12/29,-167.26,DEBIT_CARD,,6,Acme Groceries,Groceries,Regular Expenses
+Checking,12/29/2020,CONCORD PET FOODS & SU WILMINGTON DE         12/29,-64.95,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,12/23/2020,APPLE.COM/BILL 408-974-1010 CA               12/22,-14.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,12/22/2020,ALLSTATE INS CO  INS PREM    WEB ID: ,-17.63,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,12/21/2020,APPLE.COM/BILL 866-712-7753 CA               12/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,12/17/2020,ALLSTATE INS CO  INS PREM                   PPD ID: ,-202.88,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,12/15/2020,CONCORD PET FOODS & SU WILMINGTON DE         12/15,-92.46,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,12/09/2020,CONCORD PET FOODS & SU WILMINGTON DE         12/09,-94.46,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,12/07/2020,CONCORD PET FOODS & SU WILMINGTON DE         12/06,-218.3,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,12/04/2020,ATT              Payment                    PPD ID: ,-79.12,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,12/02/2020,AUTOZONE  1160 3600 N WILMINGTON DE  534514  12/02,-22.98,DEBIT_CARD,,None,No Short Name,No Category 1,No Category 2
+Checking,12/01/2020,NETFLIX.COM NETFLIX.COM CA                   12/01,-12.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,11/30/2020,ACME 0874 WILMINGTON DE              616471  11/30,-103.26,DEBIT_CARD,,6,Acme Groceries,Groceries,Regular Expenses
+Checking,11/25/2020,CONCORD PET FOODS & SU WILMINGTON DE         11/25,-92.94,DEBIT_CARD,,14,Concord Pet Store,Ernie,Regular Expenses
+Checking,11/24/2020,APPLE.COM/BILL 866-712-7753 CA               11/24,-64.98,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,11/20/2020,APPLE.COM/BILL 866-712-7753 CA               11/20,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,11/20/2020,ALLSTATE INS CO  INS PREM    WEB ID: ,-23.08,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,11/20/2020,ACME 0874 WILMINGTON DE              332323  11/20,-173.75,DEBIT_CARD,,6,Acme Groceries,Groceries,Regular Expenses
+Checking,11/19/2020,APPLE.COM/BILL 866-712-7753 CA               11/19,-49.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,11/18/2020,ALLSTATE INS CO  INS PREM                   PPD ID: ,-202.88,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,11/16/2020,GULF 2513 WILMINGTON DE                      11/15,-34.53,DEBIT_CARD,,8,Gulf,Gas,Regular Expenses
+Checking,11/09/2020,ROYAL FARMS #197 NEWARK DE                   11/08,-8.36,DEBIT_CARD,,12,Royal Farms,Gas,Regular Expenses
+Checking,11/09/2020,APPLE.COM/BILL 866-712-7753 CA               11/07,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,11/04/2020,ATT              Payment                    PPD ID: ,-79.12,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,11/02/2020,NETFLIX.COM NETFLIX.COM CA                   11/01,-12.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,10/26/2020,ACME 0874 WILMINGTON DE              048648  10/24,-12.99,DEBIT_CARD,,6,Acme Groceries,Groceries,Regular Expenses
+Checking,10/23/2020,APPLE.COM/BILL 866-712-7753 CA               10/22,-16.98,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,10/21/2020,ALLSTATE INS CO  INS PREM    WEB ID: ,-23.08,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,10/19/2020,APPLE.COM/BILL 866-712-7753 CA               10/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,10/19/2020,ALLSTATE INS CO  INS PREM                   PPD ID: ,-202.88,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,10/05/2020,ATT              Payment                    PPD ID: ,-79.08,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,10/05/2020,GROTTOPENNSYLVANIA AVE WILMINGTON DE         10/03,-25.79,DEBIT_CARD,,15,Grotto Pizza,Restaurants,Non-recurring Expenses
+Checking,10/01/2020,NETFLIX.COM NETFLIX.COM CA                   10/01,-12.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,09/29/2020,SEAMLSSTACOBELL SEAMLESS.COM NY              09/28,-25,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,09/28/2020,GROTTOPENNSYLVANIA AVE WILMINGTON DE         09/27,-31.29,DEBIT_CARD,,15,Grotto Pizza,Restaurants,Non-recurring Expenses
+Checking,09/25/2020,APPLE.COM/BILL 866-712-7753 CA               09/24,-14.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,09/22/2020,ALLSTATE INS CO  INS PREM    WEB ID: ,-23.08,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,09/21/2020,APPLE.COM/BILL 866-712-7753 CA               09/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,09/21/2020,GROTTOPENNSYLVANIA AVE WILMINGTON DE         09/18,-22.79,DEBIT_CARD,,15,Grotto Pizza,Restaurants,Non-recurring Expenses
+Checking,09/18/2020,GULF 2513 WILMINGTON DE                      09/18,-34.64,DEBIT_CARD,,8,Gulf,Gas,Regular Expenses
+Checking,09/17/2020,ALLSTATE INS CO  INS PREM                   PPD ID: ,-202.88,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,09/04/2020,ATT              Payment                    PPD ID: ,-79.08,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,09/01/2020,NETFLIX.COM NETFLIX.COM CA                   09/01,-12.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,08/24/2020,APPLE.COM/BILL 866-712-7753 CA               08/22,-14.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,08/20/2020,ALLSTATE INS CO  INS PREM    WEB ID: ,-23.08,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,08/19/2020,APPLE.COM/BILL 866-712-7753 CA               08/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,08/18/2020,ALLSTATE INS CO  INS PREM                   PPD ID: ,-202.87,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,08/17/2020,SEAMLSSTACOBELL SEAMLESS.COM NY              08/15,-24,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,08/04/2020,ATT              Payment                    PPD ID: ,-79.08,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,08/03/2020,NETFLIX.COM NETFLIX.COM CA                   08/01,-12.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,08/03/2020,APPLE.COM/BILL 800-275-2273 CA               08/02,-79.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,07/24/2020,GROTTOPENNSYLVANIA AVE WILMINGTON DE         07/24,-31.75,DEBIT_CARD,,15,Grotto Pizza,Restaurants,Non-recurring Expenses
+Checking,07/21/2020,ALLSTATE INS CO  INS PREM    WEB ID: ,-13.08,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,07/20/2020,APPLE.COM/BILL 866-712-7753 CA               07/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,07/20/2020,AUTOZONE  1160 3600 N WILMINGTON DE  700625  07/19,-29.94,DEBIT_CARD,,None,No Short Name,No Category 1,No Category 2
+Checking,07/17/2020,ALLSTATE INS CO  INS PREM                   PPD ID: ,-202.38,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,07/13/2020,ROYAL FARMS #99 NEWARK DE                    07/11,-9.45,DEBIT_CARD,,12,Royal Farms,Gas,Regular Expenses
+Checking,07/13/2020,SEAMLSSTACOBELL SEAMLESS.COM NY              07/11,-28,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,07/09/2020,APPLE.COM/BILL 408-974-1010 CA               07/09,-10.88,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,07/07/2020,GROTTOPENNSYLVANIA AVE WILMINGTON DE         07/06,-23.79,DEBIT_CARD,,15,Grotto Pizza,Restaurants,Non-recurring Expenses
+Checking,07/06/2020,ATT              Payment                    PPD ID: ,-78.9,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,07/06/2020,GROTTOPENNSYLVANIA AVE WILMINGTON DE         07/05,-29.78,DEBIT_CARD,,15,Grotto Pizza,Restaurants,Non-recurring Expenses
+Checking,07/06/2020,APPLE.COM/BILL 866-712-7753 CA               07/05,-16.32,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,07/01/2020,NETFLIX.COM NETFLIX.COM CA                   07/01,-12.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,06/26/2020,FRANKS WINE 1206 NORTH WILMINGTON DE 456740  06/26,-59.8,DEBIT_CARD,,16,Frank's Wine,Booze,Regular Expenses
+Checking,06/22/2020,ALLSTATE INS CO  INS PREM    WEB ID: ,-23.08,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,06/19/2020,APPLE.COM/BILL 866-712-7753 CA               06/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,06/17/2020,ALLSTATE INS CO  INS PREM                   PPD ID: ,-171.58,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,06/08/2020,GROTTOPENNSYLVANIA AVE WILMINGTON DE         06/06,-30.79,DEBIT_CARD,,15,Grotto Pizza,Restaurants,Non-recurring Expenses
+Checking,06/04/2020,ATT              Payment                    PPD ID: ,-78.9,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,06/01/2020,NETFLIX.COM NETFLIX.COM CA                   06/01,-12.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,06/01/2020,GROTTOPENNSYLVANIA AVE WILMINGTON DE         05/31,-19.79,DEBIT_CARD,,15,Grotto Pizza,Restaurants,Non-recurring Expenses
+Checking,05/22/2020,FRANKS WINE 1206 NORTH WILMINGTON DE 428967  05/22,-100,DEBIT_CARD,,16,Frank's Wine,Booze,Regular Expenses
+Checking,05/20/2020,ALLSTATE INS CO  INS PREM    WEB ID: ,-23.08,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,05/19/2020,APPLE.COM/BILL 866-712-7753 CA               05/19,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,05/19/2020,ALLSTATE INS CO  INS PREM                   PPD ID: ,-202.38,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,05/15/2020,FRANKS WINE 1206 NORTH WILMINGTON DE 054671  05/15,-105.96,DEBIT_CARD,,16,Frank's Wine,Booze,Regular Expenses
+Checking,05/14/2020,ALLSTATE    *PAYMNT 800-255-7828 IL          05/13,12.98,DEBIT_CARD,,2,Allstate Online Payment,Insurance,Monthly Expenses
+Checking,05/05/2020,ATT              Payment                    PPD ID: ,-78.9,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,05/04/2020,ALLSTATE    *PAYMNT 800-255-7828 IL          05/01,-24.17,DEBIT_CARD,,2,Allstate Online Payment,Insurance,Monthly Expenses
+Checking,05/01/2020,Netflix.com 866-5797172 CA                   05/01,-12.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,04/22/2020,FRANKS WINE 1206 NORTH WILMINGTON DE 006982  04/22,-147.63,DEBIT_CARD,,16,Frank's Wine,Booze,Regular Expenses
+Checking,04/21/2020,ALLSTATE INS CO  INS PREM    WEB ID: ,-23.08,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,04/20/2020,APPLE.COM/BILL 866-712-7753 CA               04/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,04/20/2020,GROTTOPENNSYLVANIA AVE WILMINGTON DE         04/17,-33.29,DEBIT_CARD,,15,Grotto Pizza,Restaurants,Non-recurring Expenses
+Checking,04/17/2020,ALLSTATE INS CO  INS PREM                   PPD ID: ,-202.38,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,04/06/2020,ATT              Payment                    PPD ID: ,-78.95,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,04/02/2020,ALLSTATE    *PAYMNT 800-255-7828 IL          04/01,-24.17,DEBIT_CARD,,2,Allstate Online Payment,Insurance,Monthly Expenses
+Checking,03/20/2020,ALLSTATE INS CO  INS PREM    WEB ID: ,-23.08,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,03/18/2020,APPLE.COM/BILL 866-712-7753 CA               03/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,03/18/2020,ALLSTATE INS CO  INS PREM                   PPD ID: ,-202.44,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,03/09/2020,AUTOZONE  1160 3600 N WILMINGTON DE  840155  03/07,-13.28,DEBIT_CARD,,None,No Short Name,No Category 1,No Category 2
+Checking,03/04/2020,ATT              Payment                    PPD ID: ,-81.96,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,03/03/2020,ALLSTATE    *PAYMNT 800-255-7828 IL          03/02,-24.17,DEBIT_CARD,,2,Allstate Online Payment,Insurance,Monthly Expenses
+Checking,03/02/2020,Netflix.com netflix.com CA                   03/01,-12.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,03/02/2020,GROTTOPENNSYLVANIA AVE WILMINGTON DE         02/29,-27.79,DEBIT_CARD,,15,Grotto Pizza,Restaurants,Non-recurring Expenses
+Checking,02/25/2020,APPLE.COM/BILL 866-712-7753 CA               02/25,-12.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,02/20/2020,ALLSTATE INS CO  INS PREM    WEB ID: ,-23.08,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,02/19/2020,GULF 2513 WILMINGTON DE                      02/19,-32.65,DEBIT_CARD,,8,Gulf,Gas,Regular Expenses
+Checking,02/18/2020,APPLE.COM/BILL 866-712-7753 CA               02/18,-2.99,DEBIT_CARD,,3,Apple,Subscriptions,Regular Expenses
+Checking,02/18/2020,ALLSTATE P&C INS INS PYMT    TEL ID: ,-200.88,ACH_DEBIT,,1,Allstate,Insurance,Monthly Expenses
+Checking,02/18/2020,BARCADE NEW YORK LLC NEW YORK NY             02/13,-41.84,DEBIT_CARD,,17,Barcade,Restaurants,Non-recurring Expenses
+Checking,02/04/2020,ATT              Payment                    PPD ID: ,-81.96,ACH_DEBIT,,4,AT&T Phone Bill,Utilities,Monthly Expenses
+Checking,02/04/2020,STARBUCKS 800-782-7282 WA                    02/04,-25,DEBIT_CARD,,10,Starbucks,Restaurants,Non-recurring Expenses
+Checking,02/03/2020,Netflix.com netflix.com CA                   02/01,-12.99,DEBIT_CARD,,11,Netflix,Subscriptions,Regular Expenses
+Checking,02/03/2020,ALLSTATE    *PAYMNT 800-255-7828 IL          02/01,-24.17,DEBIT_CARD,,2,Allstate Online Payment,Insurance,Monthly Expenses
+Checking,01/29/2020,STARBUCKS 800-782-7282 WA                    01/29,-25,DEBIT_CARD,,10,Starbucks,Restaurants,Non-recurring Expenses
+Checking,05/17/2021,SEAMLSSKAMPOGARDEN SEAMLESS.COM NY           05/17,-45,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,04/26/2021,SEAMLSSTOSCANATOGO SEAMLESS.COM NY           04/24,-39,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,04/23/2021,SEAMLSSTACOBELL SEAMLESS.COM NY              04/22,-27,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,04/12/2021,SEAMLSSKAMPOGARDEN SEAMLESS.COM NY           04/11,-41,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,04/06/2021,SEAMLSSTACOBELL SEAMLESS.COM NY              04/06,-30,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,04/05/2021,SEAMLSSCHINAWOK SEAMLESS.COM NY              04/05,-22,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,04/05/2021,SEAMLSSTACOBELL SEAMLESS.COM NY              04/02,-31,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,10/07/2020,SEAMLSSTOSCANATOGO SEAMLESS.COM NY           10/06,-33,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,10/02/2020,SEAMLSSBANGKOKHOUSERE SEAMLESS.COM NY        10/01,-34,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,09/29/2020,SEAMLSSTACOBELL SEAMLESS.COM NY              09/28,-25,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,08/17/2020,SEAMLSSTACOBELL SEAMLESS.COM NY              08/15,-24,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,07/13/2020,SEAMLSSTACOBELL SEAMLESS.COM NY              07/11,-28,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Checking,07/09/2020,SEAMLSSTAKUMI SEAMLESS.COM NY                07/09,-61,DEBIT_CARD,,13,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+Savings,12/24/2021,INTEREST PAYMENT,0.01,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,12/13/2021,12/13 Mobile Text Transfer to CHK XXXX6069 12/13,-250,ACCT_XFER,,20,Transfer to checking,Account Transfer,Non-recurring Expenses
+Savings,11/26/2021,INTEREST PAYMENT,0.02,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,10/27/2021,INTEREST PAYMENT,0.02,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,09/27/2021,INTEREST PAYMENT,0.03,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,08/25/2021,INTEREST PAYMENT,0.02,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,07/27/2021,INTEREST PAYMENT,0.03,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,06/24/2021,INTEREST PAYMENT,0.03,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,05/26/2021,INTEREST PAYMENT,0.09,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,04/26/2021,INTEREST PAYMENT,0.26,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,03/24/2021,INTEREST PAYMENT,0.22,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,02/25/2021,INTEREST PAYMENT,0.25,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,01/28/2021,INTEREST PAYMENT,0.18,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,12/24/2020,INTEREST PAYMENT,0.12,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,11/27/2020,INTEREST PAYMENT,0.12,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,10/27/2020,INTEREST PAYMENT,0.13,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,09/25/2020,INTEREST PAYMENT,0.13,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,08/26/2020,INTEREST PAYMENT,0.15,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,07/24/2020,INTEREST PAYMENT,0.16,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,06/24/2020,INTEREST PAYMENT,0.16,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,05/27/2020,INTEREST PAYMENT,0.19,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,04/24/2020,INTEREST PAYMENT,0.24,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,03/25/2020,INTEREST PAYMENT,0.45,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,02/27/2020,INTEREST PAYMENT,1.38,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Savings,01/28/2020,INTEREST PAYMENT,0.3,MISC_CREDIT,,9,Interest Payment,Interest,Income
+Credit Card,06/14/2021,CONCORD PET FOODS &amp; SUPPL,-105.46,Sale,,19,Concord Pet Store,Ernie,Regular Expenses
+Credit Card,05/21/2021,DELTA AIR   0067561367949,-551.81,Sale,,7,Delta Airlines,Travel,Non-recurring Expenses
+Credit Card,02/07/2021,CONCORD PET FOODS &amp; SUPPL,-65.96,Sale,,19,Concord Pet Store,Ernie,Regular Expenses
+Credit Card,11/12/2020,LENSCRAFTERS  2290,-356.13,Sale,,18,Lenscrafters,Health and Wellness,Non-recurring Expenses
+Credit Card,12/30/2019,DELTA AIR   Baggage Fee,-30,Sale,,7,Delta Airlines,Travel,Non-recurring Expenses

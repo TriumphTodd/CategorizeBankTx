@@ -1,0 +1,24 @@
+rule_file: 'rules_test.csv'
+missing_rules_file: 'missing_rules.csv'
+output_file: 'output.csv'
+output_header: 'Account,Posting Date,Description,Amount,Type,Check or Slip #,Rule Number,Short Name,Category1,Category2'
+input_files:
+  checking:
+    filename: 'checking.csv'
+    columns: 'Details,Posting Date,Description,Amount,Type,Balance,Check or Slip #,Memo'
+    account: 'Checking'
+    rule_column: 'Description'
+    tx_type_column: 'Type'
+    output_columns: 'Posting Date,Description,Amount,Type,Check or Slip #'
+  savings:
+    filename: 'savings.csv'
+    columns: 'Details,Posting Date,Description,Amount,Type,Balance,Check or Slip #,Memo'
+    account: 'Savings'
+    tx_type_column: 'Type'
+    output_columns: 'Posting Date,Description,Amount,Type,Check or Slip #'
+  credit_card:
+    filename: 'credit_card.csv'
+    columns: 'Transaction Date,Post Date,Description,Category,Type,Amount,Memo'
+    account: 'Credit Card'
+    tx_type_column: 'Type'
+    output_columns: 'Post Date,Description,Amount,Type,Memo'

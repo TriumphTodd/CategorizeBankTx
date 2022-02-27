@@ -1,0 +1,22 @@
+﻿order,rule_type,pattern,tx_type,short_name,category1,category2
+1,contains,ALLSTATE*,ACH_DEBIT,Allstate,Insurance,Monthly Expenses
+2,contains,ALLSTATE*,DEBIT_CARD,Allstate Online Payment,Insurance,Monthly Expenses
+3,contains,APPLE.COM*,DEBIT_CARD,Apple,Subscriptions,Regular Expenses
+4,contains,ATT*PPD*,ACH_DEBIT,AT&T Phone Bill,Utilities,Monthly Expenses
+5,contains,ATT*,DEBIT_CARD,AT&T Mobile,Utilities,Regular Expenses
+6,contains,ACME*,DEBIT_CARD,Acme Groceries,Groceries,Regular Expenses
+7,contains,DELTA AIR*,Sale,Delta Airlines,Travel,Non-recurring Expenses
+8,contains,GULF*,DEBIT_CARD,Gulf,Gas,Regular Expenses
+9,contains,INTEREST PAYMENT*,MISC_CREDIT,Interest Payment,Interest,Income
+10,contains,STARBUCKS*,DEBIT_CARD,Starbucks,Restaurants,Non-recurring Expenses
+11,contains,NETFLIX.COM*,DEBIT_CARD,Netflix,Subscriptions,Regular Expenses
+12,contains,ROYAL FARMS*,DEBIT_CARD,Royal Farms,Gas,Regular Expenses
+13,contains,SEAMLSS*,DEBIT_CARD,Seamless Food Delivery,Restaurants,Non-recurring Expenses
+14,contains,CONCORD PET FOODS*,DEBIT_CARD,Concord Pet Store,Ernie,Regular Expenses
+15,contains,GROTTO*,DEBIT_CARD,Grotto Pizza,Restaurants,Non-recurring Expenses
+16,contains,FRANKS WINE*,DEBIT_CARD,Frank's Wine,Booze,Regular Expenses
+17,contains,BARCADE*,DEBIT_CARD,Barcade,Restaurants,Non-recurring Expenses
+18,contains,LENSCRAFTERS*,Sale,Lenscrafters,Health and Wellness,Non-recurring Expenses
+19,contains,CONCORD PET*,Sale,Concord Pet Store,Ernie,Regular Expenses
+20,contains,*Mobile Text Transfer to CHK*,ACCT_XFER,Transfer to checking,Account Transfer,Non-recurring Expenses
+21,equals,LAZ PARKING 660183-FL PHILADELPHIA PA        12/02,DEBIT,Parking,Non-recurring Expenses
