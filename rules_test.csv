@@ -19,4 +19,4 @@
 18,contains,LENSCRAFTERS*,Sale,Lenscrafters,Health and Wellness,Non-recurring Expenses
 19,contains,CONCORD PET*,Sale,Concord Pet Store,Ernie,Regular Expenses
 20,contains,*Mobile Text Transfer to CHK*,ACCT_XFER,Transfer to checking,Account Transfer,Non-recurring Expenses
-21,equals,LAZ PARKING 660183-FL PHILADELPHIA PA        12/02,DEBIT,Parking,Non-recurring Expenses
+21,equals,LAZ PARKING 660183-FL PHILADELPHIA PA        12/02,DEBIT,Parking,Parking,Non-recurring Expenses

@@ -13,33 +13,36 @@ import fnmatch
 # other modules
 import yaml
 
-def main():
-    '''
-    Main rule method - use 'globbing'
-    https://docs.python.org/3.8/library/fnmatch.html
-    TODO Split this into functions?
-    '''
-    rules = []
-    txs = []
 
-    # --------------------------------------------------------------------------
-    #                              load configuration file
-    # --------------------------------------------------------------------------
 
+def get_config(config_file):
+    """
+    ----------------------------------------------------------------------------
+                                load configuration file
+    ----------------------------------------------------------------------------
+    """
     try:
         log.info('Reading configuration file')
-        with open('config.yml', 'r') as file:
+        with open(config_file, 'r') as file:
             config = yaml.safe_load(file)
-    except FileNotFoundError:
-        log.error("config.yml not found in script directory.")
+    except FileNotFoundError as fnfe:
+        log.error("%s not found in script directory.", config_file)
+        log.error(repr(fnfe))
+        log.error("EXITING")
         sys.exit(1)
+    return config
 
-    # --------------------------------------------------------------------------
-    #                                 load rule file
-    # --------------------------------------------------------------------------
-    # TODO CSV dict writer for rules?
+def get_rules(rule_file):
+    """
+    ----------------------------------------------------------------------------
+                                load rule file
+    ----------------------------------------------------------------------------
+    Each rule is a dictionary.  All the rules are combined in a list.
+    TODO CSV dict writer for rules?
+    """
+    rules = []
     try:
-        with open(config['rule_file'], "r") as infile:
+        with open(rule_file, "r") as infile:
             rule_error = False
             expected_rule_cols = 7
             log.debug("------------------ Opening rule file ------------------")
@@ -67,22 +70,28 @@ def main():
                 else:
                     msg = f"Expected {expected_rule_cols} columns but saw " + \
                         f"{str(len(row))} on row {str(rownum)}"
-                    log.error()
+                    log.error(msg)
                     log.error(str(row))
                     rule_error = True
             # stop running if the wrong number of columns are read
             if rule_error:
                 log.error('Error reading rules')
+                log.error("EXITING")
                 sys.exit(1)
+        return rules
 
-    except FileNotFoundError:
-        msg = f"{config['missing_rules_file']} not found in script directory."
-        log.error(msg)
+    except FileNotFoundError as fnfe:
+        log.error(repr(fnfe))
         sys.exit(1)
 
-    # --------------------------------------------------------------------------
-    #                       load input files
-    # --------------------------------------------------------------------------
+def get_transactions(config):
+    """
+    ----------------------------------------------------------------------------
+                               load input files
+    ----------------------------------------------------------------------------
+    """
+
+    txs = []
 
     try:
         input_files = config['input_files']
@@ -91,8 +100,8 @@ def main():
 
             # load file_spec (column mapping)
             columns = config['input_files'][i]['columns'].split(',')
-            log.debug("Columns: %s", columns)
             log.debug("++++++++++ Reading %s ++++++++++", input_file)
+            log.debug("Columns: %s", columns)
             with open(input_file, "r") as infile:
                 reader = csv.reader(infile)
                 next(reader, None)  # skip the header
@@ -117,21 +126,30 @@ def main():
                         # log.debug("colnum=%i c=%s", colnum, col)
                         tx[col] = row[colnum]
                         colnum += 1
-                    # log.debug('tx=' + str(tx))
+                    # log.debug('trans=' + str(trans))
                     txs.append(tx)
+        return txs
 
-    except FileNotFoundError:
+    except FileNotFoundError as fnfe:
         log.error("%s not found in script directory.", input_file)
+        log.error("EXITING")
+        log.error(repr(fnfe))
         sys.exit(1)
 
+def apply_rules(rules, txs, missing_rules_file):
+    """"
+    ----------------------------------------------------------------------------
+                        Apply rules to transactions
+    ----------------------------------------------------------------------------
+    """
 
-    # --------------------------------------------------------------------------
-    #                    Apply rules to transactions
-    # --------------------------------------------------------------------------
+    if rules is None:
+        log.error("Rules is None")
+        sys.exit(1)
 
     # txs is a list of dictionaries
     tx_count = 0
-    with open(config['missing_rules_file'], "w",
+    with open(missing_rules_file, "w",
             newline='', encoding='utf-8') as missing_rules:
         missing = csv.writer(missing_rules, quoting=csv.QUOTE_MINIMAL)
         log.debug("---------- Running Rules ----------")
@@ -143,17 +161,17 @@ def main():
                         if tx['Type'] == rule['tx_type']:
                             matched = True
                             # log.debug("Matched 'contains' rule: %s => %s", \
-                            #    tx['Description'], rule['pattern'])
+                            #   tx['Description'], rule['pattern'])
                             tx['rule_num'] = rule['order']
                             tx['short_name'] = rule['short_name']
                             tx['category1'] = rule['category1']
                             tx['category2'] = rule['category2']
                 elif rule['rule_type'] == 'equals':
-                    if rule['pattern'] == tx['Description']:
+                    if rule['pattern'] ==tx['Description']:
                         if tx['Type'] == rule['tx_type']:
                             matched = True
                             # log.debug("Matched 'equals' rule: %s => %s", \
-                            #    tx['Description'], rule['pattern'])
+                            #   tx['Description'], rule['pattern'])
                             tx['rule_num'] = rule['order']
                             tx['short_name'] = rule['short_name']
                             tx['category1'] = rule['category1']
@@ -162,18 +180,22 @@ def main():
                     log.error("Unknown rule type")
                     log.error("Rule: %s", str(rule))
             if not matched:
-                missing.writerow([tx['account'], tx['Description'], tx['Type']])
+                missing.writerow([tx['account'],tx['Description'],tx['Type']])
                 tx['rule_num'] = 'None'
                 tx['short_name'] = 'No Short Name'
                 tx['category1'] = 'No Category 1'
                 tx['category2'] = 'No Category 2'
             tx_count += 1
         log.info("Processed %i transactions", tx_count)
+        #  return the enriched transactions
+        return txs
 
-
-    # --------------------------------------------------------------------------
-    # Output transactions
-    # --------------------------------------------------------------------------
+def output_transactions(config, txs):
+    """
+    ----------------------------------------------------------------------------
+                                Output transactions
+    ----------------------------------------------------------------------------
+    """
 
     # The config file lists the columns to output for each input file
     # (must be the same number for all files!)
@@ -204,6 +226,18 @@ def main():
             log.debug(output_row)
             outrows.writerow(output_row)
 
+def main():
+    """
+    Main rule method - use 'globbing'
+    https://docs.python.org/3.8/library/fnmatch.html
+    TODO Split this into functions?
+    """
+    
+    config = get_config('config.yml')
+    rules = get_rules(config['rule_file'])
+    txs = get_transactions(config)
+    txs = apply_rules(rules, txs, config['missing_rules_file'])
+    output_transactions(config, txs)
 
 if __name__ == '__main__':
     fileConfig('logging_config.ini')
